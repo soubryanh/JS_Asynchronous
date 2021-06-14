@@ -12,9 +12,11 @@ vaPasarAlgo()
   .then((resueltis) => console.log(resueltis))
   .then(() => console.log("que se dice la banda"))
   .catch((error) => console.error(error));
-
+// lo mas melo
+// que se dice la banda
+// ----------------------------------------------------------
 const vaPasarAlgo2 = () => {
-  return new Promise((resulvelo, rechazalo) => {
+  return new Promise((resuelvo, rechazalo) => {
     if (true) {
       resuelvo("la buena, lo lograste");
     } else {
@@ -35,3 +37,6 @@ vaPasarAlgo3()
   .then((negritos) => console.log(negritos))
   .then(() => console.log("negritos"))
   .catch((mal) => console.error(mal));
+// hola que hace
+// undefined
+// negritos
